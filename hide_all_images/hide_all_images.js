@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         hide all image tags on a page
-// @namespace    https://github.com/4ndr3wN
+// @namespace    https://github.com/4ndr3wN/BrowserJavascripts/tree/master/hide_all_images
 // @version      0.1
 // @description  Hide all image tags
 // @author       4ndr3wN@github
